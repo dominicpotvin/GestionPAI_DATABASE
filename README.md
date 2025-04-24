@@ -1,3 +1,10 @@
+# Conexion à la base de données
+
+```bash
+cd E:/DataBase
+sqlite3 E:/DataBase/entreprises.db
+```
+
 # Conversion d'inventaire Excel vers SQLite
 
 Ce script Python convertit votre fichier Excel d'inventaire en fichiers CSV correctement formatés pour importation dans votre base de données SQLite. Il génère une structure de données normalisée avec les tables suivantes :
