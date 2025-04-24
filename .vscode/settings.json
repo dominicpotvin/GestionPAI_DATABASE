@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Entreprises",
+            "group": "Projets",
+            "database": "E:/DataBase/entreprises.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
